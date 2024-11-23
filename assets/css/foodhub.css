@@ -174,7 +174,7 @@ html {
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
-  padding: 20px 30px;
+  padding: 0px 30px;
   background: hsla(0, 0%, 100%, 0.99);
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.05);
   box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.05);
@@ -216,7 +216,7 @@ html {
 
 .nav-link {
   color: var(--space-cadet);
-  font-size: var(--fs-5);
+  font-size: var(--fs-3);
   transition: 0.25s ease;
 }
 
@@ -412,8 +412,8 @@ html {
 }
 .yensao{
   color: black;
-  font-size: var(--fs-2);
-  font-weight: 700;
+  font-size: var(--fs-1);
+  font-weight: 600;
   line-height: 1.1;
   letter-spacing: -2px;
   margin-bottom: 30px;
